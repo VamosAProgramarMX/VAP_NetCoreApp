@@ -8,11 +8,11 @@ namespace VAP_NetCoreApp.Models.ViewModels
         [Key]
         public int ID { get; set; }
 
-        [Display(Name = "Rol")]
+        [Display(Name = "Perfil")]
         [Required(ErrorMessage = "El campo '{0}' es requerido")]
         public int RoleID { get; set; }
 
-        [Display(Name = "Rol")]
+        [Display(Name = "Perfil")]
         public string Role { get; set; }
 
         [Display(Name = "Correo electronico")]

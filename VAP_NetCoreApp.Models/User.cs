@@ -8,7 +8,7 @@ namespace VAP_NetCoreApp.Models
         [Key]
         public int ID { get; set; }
 
-        [Display(Name = "Rol")]
+        [Display(Name = "Perfil")]
         [Required(ErrorMessage = "El campo '{0}' es requerido")]
         public int RoleID { get; set; }
 
