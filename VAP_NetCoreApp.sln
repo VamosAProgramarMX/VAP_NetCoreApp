@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAP_NetCoreApp.Web", "VAP_NetCoreApp.Web\VAP_NetCoreApp.Web.csproj", "{7613FFBA-1D3A-4612-8AB1-BE2E822A48B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAP_NetCoreApp.Models", "VAP_NetCoreApp.Models\VAP_NetCoreApp.Models.csproj", "{0AD18A39-92FB-4EF8-B8B8-D2F113D741E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7613FFBA-1D3A-4612-8AB1-BE2E822A48B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7613FFBA-1D3A-4612-8AB1-BE2E822A48B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7613FFBA-1D3A-4612-8AB1-BE2E822A48B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7613FFBA-1D3A-4612-8AB1-BE2E822A48B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD18A39-92FB-4EF8-B8B8-D2F113D741E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD18A39-92FB-4EF8-B8B8-D2F113D741E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD18A39-92FB-4EF8-B8B8-D2F113D741E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD18A39-92FB-4EF8-B8B8-D2F113D741E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7BDB59A-71D8-44C9-A09A-9B2795C3712F}
+	EndGlobalSection
+EndGlobal
